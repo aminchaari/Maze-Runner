@@ -1,8 +1,8 @@
-# test-odometry
+# Maze Runner Robot
 
-PlatformIO project: test odometry
+PlatformIO project: Maze Runner Robot
 
-This repository contains code for testing odometry on embedded hardware.
+This repository contains code for the Maze Runner Robot project (odometry testing on embedded hardware).
 
 ## Structure
 
