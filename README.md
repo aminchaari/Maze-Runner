@@ -2,7 +2,7 @@
 
 PlatformIO project: Maze Runner Robot
 
-This repository contains code for the Maze Runner Robot project (odometry testing on embedded hardware).
+This repository contains code for the Maze Runner Robot project (using plain odometry).
 
 ## Structure
 
